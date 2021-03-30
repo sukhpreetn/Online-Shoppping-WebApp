@@ -10,7 +10,7 @@ cffi==1.14.0
 chardet==3.0.4
 cssselect2==0.3.0
 defusedxml==0.6.0
-Django==3.0.5
+Django==3.0.12
 django-localflavor==3.0.1
 django-parler==2.0.1
 django-rosetta==0.9.3
